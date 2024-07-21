@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Easy-note/static/css/main.40debd5c.css",
+    "main.js": "/Easy-note/static/js/main.59e713a7.js",
+    "static/js/453.6657c0e2.chunk.js": "/Easy-note/static/js/453.6657c0e2.chunk.js",
+    "index.html": "/Easy-note/index.html",
+    "main.40debd5c.css.map": "/Easy-note/static/css/main.40debd5c.css.map",
+    "main.59e713a7.js.map": "/Easy-note/static/js/main.59e713a7.js.map",
+    "453.6657c0e2.chunk.js.map": "/Easy-note/static/js/453.6657c0e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40debd5c.css",
+    "static/js/main.59e713a7.js"
+  ]
+}
