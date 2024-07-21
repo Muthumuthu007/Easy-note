@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.post {
+  color: white;
+  background-color: #003F88;
+  height: 50px;
+  width: 200px;
+  border-radius: 50px;
+  font-size: large;
+}
+
+.get {
+  color: white;
+  background-color: #003F88;
+  height: 50px;
+  width: 200px;
+  border-radius: 50px;
+  font-size: large;
+}
+
+.Header {
+  color: #00296b;
+  margin-bottom: 20px; /* Adjust the margin as needed */
+  margin-top: 0;
+}
+
+
+
+.textarea {
+  width: 500px; /* Adjust the width as needed */
+  height: 10px; 
+  padding-bottom: 200px;
+  margin: 0 auto;
+  background-color: #cdcbde;
+}
+.key{
+  margin-top: 20px;
+  width: 200px;
+  height: 30px;
+  background-color: #cdcbde;
+  border-radius: 30px;
+
+}
+.confirm{
+  color: white;
+  background-color: #003F88;
+  height: 50px;
+  width: 200px;
+  border-radius: 100px;
+  font-size: large;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.Header1{
+ color: black;
+ font-size: 50px; 
+ font-family:Arial, Helvetica, sans-serif;
+ font-weight: 1000;
+}
+.error {
+  color: red;
+  font-size: 14px;
+}
